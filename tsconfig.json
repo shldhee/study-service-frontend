@@ -15,7 +15,8 @@
     "types": [
       "webpack-env",
       "mocha",
-      "chai"
+      "chai",
+      "vuetify"
     ],
     "paths": {
       "@/*": [
@@ -38,5 +39,6 @@
   ],
   "exclude": [
     "node_modules"
-  ]
+  ],
+
 }
